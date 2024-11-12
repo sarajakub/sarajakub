@@ -1,10 +1,14 @@
-- 👋 Hi, I’m sara jakubowicz [@sarajakub]
-- 👀 I’m interested in making and researching tangible tech and immersive XR that enhances learning. I want to merge the physical world with virtual experiences for more ubiquitous interactions
-- 🌱 I’m currently learning all the things including wearables
-- 💞️ I’m looking to collaborate on research projects involving mixed reality learning experiences
-- 📫 How to reach me: sarajakubowicz@nyu.edu. Also hit up my website! [sarajakub.com](url)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to play the guitar and may possibly get into running lol
+hi, i’m sara jakubowicz [@sarajakub]
+
+i like to make things and research tangible tech and immersive XR that enhances learning. ubiquitous interactions are king
+
+i’ve decided to officially document my work to the world so enjoy my work w wearbales and my weird ai agents, etc.
+
+emails: sarajakubowicz@nyu.edu. 
+
+hit up my website! [sarajakub.com](url)
+
+:))))
 
 <!---
 sarajakub/sarajakub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
