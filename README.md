@@ -4,7 +4,7 @@ i like to make things and research tangible tech and immersive XR that enhances 
 
 i’ve decided to officially document my work to the world so enjoy my work w wearables, my weird ai agents, my alt.ctrl endeavors, a mix of all of these, and other quirky projects.
 
-emails: sarajakubowicz@nyu.edu. 
+emails: sarajakubowicz@nyu.edu and sarajakub0@gmail.com. 
 
 hit up my website! [sarajakub.com](url)
 
