@@ -6,7 +6,7 @@ i’ve decided to officially document my work to the world so enjoy my work w we
 
 emails: sarajakubowicz@nyu.edu and sarajakub0@gmail.com. 
 
-hit up my website! [sarajakub.com](url)
+hit up my website! [sarajakub.com](sarajakub.com)
 
 :))))
 
